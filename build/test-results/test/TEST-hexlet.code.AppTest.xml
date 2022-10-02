@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hexlet.code.AppTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-10-02T09:34:46" hostname="alexandr-VivoBook-ASUSLaptop-X431FA-S431FA" time="0.046">
+  <properties/>
+  <testcase name="Test MapSchema" classname="hexlet.code.AppTest" time="0.035"/>
+  <testcase name="Test StringSchema" classname="hexlet.code.AppTest" time="0.003"/>
+  <testcase name="Test NumberSchema" classname="hexlet.code.AppTest" time="0.003"/>
+  <testcase name="Test MapSchema.shape()" classname="hexlet.code.AppTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
